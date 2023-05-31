@@ -1,0 +1,5 @@
+#!/bin/bashh~
+cd "$OLDPWD"
+echo
+cd "$current_directory"
+
