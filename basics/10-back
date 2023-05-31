@@ -1,6 +1,5 @@
 #!/bin/bash
-cd "OLDPWD"
-echo
-cd "current_directory"
+cd "my_first_directory"
+
 
 
