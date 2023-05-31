@@ -1,5 +1,6 @@
-#!/bin/bashh~
-cd "$OLDPWD"
+#!/bin/bash
+cd "OLDPWD"
 echo
-cd "$current_directory"
+cd "current_directory"
+
 
