@@ -1,5 +1,6 @@
 #!/bin/bash
-cd "my_first_directory"
+pushd my_first_directory > /dev/null
+
 
 
 
